@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Ignacio, im from Snatiago de Chile and im currently finishging my Industrial Engineering major and Data Science master at Universidad de Chile
+My name is Ignacio, im from Santiago de Chile and im currently finishging my Industrial Engineering major and Data Science master at Universidad de Chile
 
 ## 🔧 Stack
 
