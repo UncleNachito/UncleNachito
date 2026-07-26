@@ -17,7 +17,7 @@ A Python pipeline to identify statistically anomalous patterns in Chilean electo
 - Processing and cleaning historical electoral data (multiple elections, 2013–2022)
 - Comparison of different weighting schemes and ML models
 - Model interpretability using SHAP to identify the most influential variables
-- **[View repository →](https://github.com/YOUR_USERNAME/repo-name)**
+- **[View repository →](https://github.com/UncleNachito/electoral-anomaly-detection)**
 
 ## 📫 Contact
 
