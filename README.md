@@ -21,5 +21,5 @@ A Python pipeline to identify statistically anomalous patterns in Chilean electo
 
 ## 📫 Contact
 
-- LinkedIn: [your-linkedin]
-- Email: your-email@example.com
+- LinkedIn: [https://www.linkedin.com/in/ignacio-diaz-cares/]
+- Email: ignaciodiazcares@gmail.com
